@@ -27,10 +27,17 @@ pip install -r requirements.txt
 # Some useful commands
 
 ##  Activate the Virtual Environment
+
 Windows:
 ```bash
 plot-env\Scripts\activate
 ```
+
+## Execute
+```bash
+python plot_csv_ui.py
+```
+
 
 ## Step 4: Save Requirements (Optional but Recommended)
 To make the project reproducible, export the installed packages:
