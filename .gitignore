@@ -1,0 +1,25 @@
+# Python virtual environment
+plot-env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Logs and local dev files
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Ignore CSV and output files
+*.csv
+*.png
+
+# VS Code and system files
+.vscode/
+.DS_Store
+Thumbs.db
+.idea/
+.env
